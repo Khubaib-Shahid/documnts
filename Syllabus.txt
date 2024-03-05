@@ -1,0 +1,31 @@
+Q1: Programming
+
+TypeScript (user interface);
+Python (programing interfaces), APIs;
+
+Q2: Frontend Development
+
+TypeScript 5;
+React 18;
+Next JS 14;
+Tailwind CSS 3;
+Shadcn UI React;
+Headless Radix UI;
+Headless CMS;
+Vercel AI SDK;
+Vercel Cloud;
+vercel CDN;
+
+Q3: GenAI, API, Database, cloud Development and DevOps
+
+Python based Fast API;
+Pendantic;
+SQLAlchemy;
+Postgresql;
+Open AI ChatGPT 4;
+Google Gemini APIs;
+Langchain;
+Google Cloud Run;
+Azure Container Service;
+Kubernetes;
+Terraform;
